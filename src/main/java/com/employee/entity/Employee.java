@@ -1,9 +1,8 @@
 package com.employee.entity;
 
-import org.springframework.data.annotation.Id;
-
 
 import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
 
 @Entity
 public class Employee {
